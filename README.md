@@ -29,8 +29,8 @@ of COVID-19. Our goal is to adjust the estimations that we obtained using the
 classical models by introducing some changes in the dynamics of the virus.
 
 We provide the following documentation and code:
-- SAIR.pdf is the model, and the equations. 
-- SAIR.py is the code in python. 
+- SAIR.pdf:  the model and the equations. 
+- SAIR.py : the code in python. 
 
 The example in the code is with data from slovenia, but you can change the data (using the data of the country you are intersted in) and see the results. 
 
